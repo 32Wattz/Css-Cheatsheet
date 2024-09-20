@@ -1,0 +1,38 @@
+table, th {
+    border: 2px solid royalblue;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+
+td {
+    border: 2px solid rgb(0, 165, 143);
+}
+
+body {
+    background-color: rgb(217, 180, 252);
+    margin: 3 auto;
+    font-weight: bold;
+}
+
+th {
+    font-style: italic;
+}
+
+thead {
+    margin-top: 5%;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+    
